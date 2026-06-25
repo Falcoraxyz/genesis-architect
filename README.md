@@ -65,7 +65,7 @@ Download `genesis-architect.skill` from [Releases](../../releases) and upload it
 Clone this repo, then point your Claude skill loader at the `genesis-architect/` directory.
 
 ```bash
-git clone https://github.com/your-username/genesis-architect.git
+https://github.com/Falcoraxyz/genesis-architect.git
 ```
 
 ---
